@@ -16,9 +16,7 @@ timezone: Asia/Singapore
 
 title: A. Dewa Fortuna Mogot # the main title
 
-tagline: Student at Universitas Ciputra |
-Full-Stack Developer Amateur |
-Programming Language Python. # it will display as the subtitle
+tagline: Student at Universitas Ciputra | Full-Stack Developer Amateur | Programming Language Python. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
