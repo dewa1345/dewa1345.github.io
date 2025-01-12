@@ -11,47 +11,54 @@ I am find it fun about contributing to innovative projects, connecting with like
 
  "A master has failed more times than the beginner has ever tried."
 
-```
-List of Autism and Proud People
-```
 
-# Shadow Monarch (Gilbert)
+# Hall Of Shame
+
+
+## Shadow Monarch (Gilbert)
 ![Desktop View](/assets/images/goofy1.png)
 
 
 
 
-# Indonesia Final Boss (Kinawa)
+## Indonesia Final Boss (Kinawa)
 ![Indonesia Final Boss](/assets/images/goofy2.jpg)
 
 
-# Deddy corbuzier (biyon)
+## Deddy corbuzier (biyon)
 ![Deddy Corbuzier](/assets/images/goofy3.png)
 
-# Dangerously Cute Criminal can breath in 4k (Mikel)
+## Dangerously Cute Criminal can breath in 4k (Mikel)
 ![Dangerously Cute](/assets/images/goofy5.png)
-# Anak indigo (Menerawang) (Evander)
+## Anak indigo (Menerawang) (Evander)
 ![Anak Indigo](/assets/images/goofy7.jpg)
 
-# Yusuf Dikec Jr indonesia (Jack)
+## Yusuf Dikec Jr indonesia (Jack)
 ![alt text](/assets/images/goofy8.webp)
 
 
-# Huh? (Aristo)
+## Huh? (Aristo)
 ![alt text](/assets/images/goofy9.png)
 
-# Anak Rajin (Fredrik)
+## Anak Rajin (Fredrik)
 ![Dangerously Cute](/assets/images/goofy11.jpg)
 
 
-# Fire Magician (Christian)
+## Fire Magician (Christian)
 ![Dangerously Cute](/assets/images/goofy12.jpg)
 
-# Roblox Enjoyer (Val)
+## Roblox Enjoyer (Val)
 ![Dangerously Cute](/assets/images/goofy13.jpg)
 
-# Snapchat status of the year 2024 (Nandez)
+## Snapchat status of the year 2024 (Nandez)
 ![Dangerously Cute](/assets/images/goofy14.jpg)
 
-# Me When Fail 50/50 gacha (Joel)
+## Me When Fail 50/50 gacha (Joel)
 ![Dangerously Cute](/assets/images/goofy15.jpg)
+
+## Aku ketike Leg Day  (Jason)
+![Dangerously Cute](/assets/images/goofy16.jpg)
+
+## Honestly i dont know what creature is this (SCP-???)
+![Dangerously Cute](/assets/images/goofy17.jpg)
+
