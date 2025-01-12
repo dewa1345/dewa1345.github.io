@@ -5,7 +5,7 @@ date: 05-11-2024
 categories: [Tugas-tugas]
 tag: [Like, Comment]
 image:
-  path: /assets/lib/foto1.jpg
+  path: /assets/images/foto1.jpg
 ---
 # About
 Memahami cara Stacks pop() bekerja adalah dengan cara melihat bagaimana data "ditumpuk" contoh dibawah ini jika kita memasukkan data 4 1 2 3 maka yang terjadi adalah seperti dibawah 

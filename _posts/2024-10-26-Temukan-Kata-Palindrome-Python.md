@@ -5,7 +5,7 @@ date: 26-10-2024
 categories: [Tugas-tugas]
 tag: [Like, Comment]
 image:
-  path: /assets/lib/foto2.jpg
+  path: /assets/images/foto2.jpg
 ---
 
 # About

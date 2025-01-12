@@ -5,7 +5,7 @@ date: 24-10-2024
 categories: [Tugas-tugas]
 tag: [Like, Comment]
 image:
-  path: /assets/lib/foto4.png
+  path: /assets/images/foto4.png
 ---
 # About
 Program yang ada di bawah ini untuk mendata mahasiswa dengan mencatat NIM, Jurusan dan Nama menggunakan python dan variable ksosong yang akan di isi oleh data

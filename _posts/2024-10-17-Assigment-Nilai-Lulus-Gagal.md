@@ -5,7 +5,7 @@ date: 24-10-2024
 categories: [Tugas-tugas]
 tag: [Like, Comment]
 image:
-  path: /assets/lib/foto5.jpg
+  path: /assets/images/foto5.jpg
 ---
 # About
 Program untuk menentukan kelulusan mahasiswa dari nilai. jika Angka yang dimasukkan lebih dari 100++ atau kurang dari 0-- maka program akan mengatakan "invalid value" 

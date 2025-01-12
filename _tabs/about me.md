@@ -15,53 +15,37 @@ I am find it fun about contributing to innovative projects, connecting with like
 List of Autism and Proud People
 ```
 
-
-![Shadow Lord](/assets/lib/goofy1.png)
-```
-Shadow Monarch (Gilbert)
-```
+# Shadow Monarch (Gilbert)
+![Desktop View](/assets/images/goofy1.png)
 
 
 
-![Indonesia Final Boss](/assets/lib/goofy2.jpg)
 
-```
-Indonesia Final Boss (Kinawa)
-```
+# Indonesia Final Boss (Kinawa)
+![Indonesia Final Boss](/assets/images/goofy2.jpg)
 
 
-![Deddy Corbuzier](/assets/lib/goofy3.png)
-```
-Deddy corbuzier (biyon)
-```
+# Deddy corbuzier (biyon)
+![Deddy Corbuzier](/assets/images/goofy3.png)
+
+# Dangerously Cute Criminal can breath in 4k (Mikel)
+![Dangerously Cute](/assets/images/goofy5.png)
+# Anak indigo (Menerawang) (Evander)
+![Anak Indigo](/assets/images/goofy7.jpg)
+
+# Yusuf Dikec Jr indonesia (Jack)
+![alt text](/assets/images/goofy8.webp)
 
 
-![Dangerously Cute](/assets/lib/goofy5.png)
-```
-Dangerously Cute Criminal can breath in 4k (Mikel)
-```
+# Huh? (Aristo)
+![alt text](/assets/images/goofy9.png)
 
-![Anak Indigo](/assets/lib/goofy7.jpg)
-```
-Anak indigo (Evander)
-```
-![alt text](/assets/lib/goofy8.webp)
+# Anak Rajin (Fredrik)
+![Dangerously Cute](/assets/images/goofy11.jpg)
 
-```
-Yusuf Dikec Jr indonesia (Jack)
-```
 
-![alt text](/assets/lib/goofy9.png)
-```
-Huh? (Aristo)
-```
-
-![Dangerously Cute](/assets/lib/goofy11.jpg)
-```
-Anak Rajin (Fredrik)
-```
-
-![Dangerously Cute](/assets/lib/goofy12.jpg)
-```
 # Fire Magician (Christian)
-```
+![Dangerously Cute](/assets/images/goofy12.jpg)
+
+# Roblox Enjoyer (Val)
+![Dangerously Cute](/assets/images/goofy13.jpg)
