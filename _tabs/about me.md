@@ -49,3 +49,6 @@ List of Autism and Proud People
 
 # Roblox Enjoyer (Val)
 ![Dangerously Cute](/assets/images/goofy13.jpg)
+
+# Snapchat status of the year 2024 (Nandez)
+![Dangerously Cute](/assets/images/goofy14.jpg)
