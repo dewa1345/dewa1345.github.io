@@ -52,3 +52,6 @@ List of Autism and Proud People
 
 # Snapchat status of the year 2024 (Nandez)
 ![Dangerously Cute](/assets/images/goofy14.jpg)
+
+# Me When Fail 50/50 gacha (Joel)
+![Dangerously Cute](/assets/images/goofy15.jpg)
