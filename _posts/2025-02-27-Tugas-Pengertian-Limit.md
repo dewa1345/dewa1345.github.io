@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Limit On Math
-date: 26-10-2024
+date: 27-02-2025
 categories: [Tugas-tugas]
 tag: [Calculus]
 image:
