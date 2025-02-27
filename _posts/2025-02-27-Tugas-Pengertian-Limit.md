@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menemukan kata palindrome python
+title: Limit On Math
 date: 26-10-2024
 categories: [Tugas-tugas]
 tag: [Calculus]
