@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Limit On Math
+title: Turunan On Math
 date: 07-03-2025
 categories: [Tugas-tugas]
 tag: [Calculus]
