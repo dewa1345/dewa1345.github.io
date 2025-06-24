@@ -11,7 +11,7 @@ image:
 # About
 Tugas tentang apa makna/pengertian turunan dan kegunaan turunan
 
-# Pengertian/makana
+# Pengertian
 Turunan dalam matematika adalah cara untuk mengukur seberapa cepat suatu nilai berubah terhadap variabel lainnya.
 
 # Kegunaan

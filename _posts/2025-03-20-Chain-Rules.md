@@ -11,7 +11,7 @@ image:
 # About
 Tugas tentang apa makna/pengertian Chain Rules
 
-# Pengertian/makana
+# Pengertian
 Chain Rule dalam matematika adalah cara menghitung seberapa cepat sesuatu berubah ketika prosesnya terdiri dari beberapa langkah yang saling berhubungan.
 
 # Kegunaan
