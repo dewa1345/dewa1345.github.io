@@ -5,7 +5,7 @@ date: 12-06-2025
 categories: [Tugas-tugas]
 tag: [Calculus]
 image:
-  path: /assets/images/numerik3.png
+  path: /assets/images/numerik6.png
 ---
 # About
 Refleksi Numerik integral
